@@ -1,0 +1,5 @@
+@echo off
+title KasuganoSora ”∆Ò∑—Ã”Í∆Ù∂Ø∆˜
+mode con:cols=170
+"php/php.exe" main.php
+pause
